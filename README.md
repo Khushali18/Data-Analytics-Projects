@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Visualization
+# 📊 Data Analytics Dashboard Visualization
 
 Welcome! I'm a Data Scientist with a passion for turning complex data into clear, actionable insights through visual storytelling. With hands-on experience in Power BI, Python, and relevant technologies, I enjoy building dashboards that inform strategy and improve decision-making in real-world contexts.
 
